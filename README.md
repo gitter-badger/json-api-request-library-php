@@ -1,4 +1,6 @@
 # json-api-request-library-php
+
+[![Join the chat at https://gitter.im/intrepion/json-api-request-library-php](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/intrepion/json-api-request-library-php?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 JSON API request library written in PHP
 
 ## Badges
